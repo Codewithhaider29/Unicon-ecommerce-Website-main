@@ -1,5 +1,7 @@
 # Unicorn - eCommerce Website
 
+Last updated: 2025-01-03 04:14:11
+
 ## Description
 The **Unicorn** project is a fully responsive eCommerce website built using HTML, CSS, and JavaScript. It features an elegant and user-friendly interface, including product categories, a shopping cart, and interactive elements like modal pop-ups, product carousels, and a notification system.
 
